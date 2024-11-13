@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "keep_active_for.py", line 23, in <module>
+    time.sleep(60)
+KeyboardInterrupt
+Sorry, try again.
+Sorry, try again.
+Traceback (most recent call last):
+  File "keep_active_for.py", line 23, in <module>
+    time.sleep(60)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "keep_active_for.py", line 23, in <module>
+    time.sleep(60)
+KeyboardInterrupt
+sudo: keep_active_for.sh: command not found
+Traceback (most recent call last):
+  File "./keep_active_for.py", line 23, in <module>
+    time.sleep(60)
+KeyboardInterrupt

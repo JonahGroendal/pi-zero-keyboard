@@ -17,9 +17,9 @@ echo 0x1d6b > idVendor # Linux Foundation
 # Create English locale
 mkdir strings/0x409
 
-echo "My manufacturer" > strings/0x409/manufacturer
-echo "My virtual keyboard" > strings/0x409/product
-echo "0123456789" > strings/0x409/serialnumber
+#echo "Microsoft" > strings/0x409/manufacturer
+echo "Wired Keyboard" > strings/0x409/product
+#echo "0123456789" > strings/0x409/serialnumber
 
 # Create HID function
 mkdir functions/hid.usb0
